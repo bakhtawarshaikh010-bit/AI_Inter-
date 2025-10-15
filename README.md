@@ -11,5 +11,8 @@ Submit ai tasks
 # decision tree: 
 <img width="1120" height="631" alt="image" src="https://github.com/user-attachments/assets/e13be893-e827-4cfe-ada1-831889775e59" />
 
+# this is my linkedin profile
+https://www.linkedin.com/in/bakhtawar-shaikh-a6930634b/
+
 
 
